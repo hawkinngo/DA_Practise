@@ -14,7 +14,7 @@
 1. Through each project, we focus on researching domain knowledge to understand why that information is there. As well as analysis orientation for the datasets found.
 2. Based on the study of domain knowledge, we will better understand the expertise of the data analysis industry.
 
-## Study Plan
+## Study Plan: [Mr. Nhân datasets]('https://github.com/panicpotatoe/dataset')
 
 1. Stage 1, choose simple data sets (1 file, few columns of data) and close to knowledge and preferences.
    - Simple processing on excel, csv, json files.
